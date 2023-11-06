@@ -4,14 +4,7 @@
 
 Provide a short description explaining the what, why, and how of your project. Use the following questions as a guide:
 
-- What was your motivation?
-I wanted to learn about tech and be introduced into a career path to eventually work on videogames.
-- Why did you build this project? 
-To be familiar with the tools before using them in class.
-- What problem does it solve?
-Cluelessness
-- What did you learn?
-How to build a webpage, and work behind the scenes on the visuals coding creates.
+I wanted to learn about tech and be introduced into a career path to eventually work on videogames. The prework project is a good way to be familiar with the tools before using them in class. Including how to build a webpage, and work behind the scenes on the visuals coding creates.
 
 ## Table of Contents (Optional)
 
